@@ -14,7 +14,7 @@ I'm constantly learning and experimenting, whether through building projects, co
 ## 🤝 Let's Collaborate!
 I believe collaboration sparks innovation. If you're passionate about **AI**, **ML**, **Data Science**, or **Web Development**, let’s connect and create something impactful! Feel free to reach out or check out my repositories—let's build the future together!
 
-📬 Reach me: **zeeshan02023@gmail.com** or **i.zeeshankhan@outlook.com**  
+📬 Reach me: **IamXeeshanKhan@gmail.com** or **i.zeeshankhan@outlook.com**  
 🔗 Check out my work and contribute to exciting projects! 🚀
 
 ---
