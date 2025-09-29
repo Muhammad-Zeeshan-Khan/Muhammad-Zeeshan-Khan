@@ -89,18 +89,6 @@ I'm Muhammad Zeeshan Khan, a tech enthusiast who's deeply immersed in the ever-e
 ---
 
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,nextjs,vue,nodejs,express,php,flask,python,r,tensorflow,java,kotlin,c,cpp,cs,mysql,postgres,sqlite,docker,kubernetes,aws,gcp,git,postman" />
